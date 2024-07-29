@@ -1,6 +1,14 @@
 # Block
 
-[image]
+
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/andrew-campbell-13/Block_Public/blob/master/home_light.png" width="180" alt="Screenshot 1">
+   <img src="https://github.com/andrew-campbell-13/Block_Public/blob/master/home_dark.png" width="180" alt="Screenshot 1">
+   <img src="https://github.com/andrew-campbell-13/Block_Public/blob/master/journey_1.png" width="180" alt="Screenshot 1">
+   <img src="https://github.com/andrew-campbell-13/Block_Public/blob/master/journey_2.png" width="180" alt="Screenshot 1">
+   <img src="https://github.com/andrew-campbell-13/Block_Public/blob/master/combined_journey.png" width="180" alt="Screenshot 1">
+</div>
 
 ## Overview
 
@@ -42,11 +50,11 @@ Follow these steps to download and set up the app on your local machine:
    
 3. **Create a New Xcode Project**
 
-Open Xcode and create a new project:
-- Select "File" -> "New" -> "Project..."
-- Choose a template (e.g., App under iOS).
-- Name your project `Block` and set the relevant options.
-- Save the project in the same directory as the cloned repository (`Block`).
+   Open Xcode and create a new project:
+   - Select "File" -> "New" -> "Project..."
+   - Choose a template (e.g., App under iOS).
+   - Name your project `Block` and set the relevant options.
+   - Save the project in the same directory as the cloned repository (`Block`).
 
 4. **Add Existing Files to Your Xcode Project**
 
